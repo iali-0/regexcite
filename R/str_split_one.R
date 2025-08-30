@@ -1,7 +1,7 @@
 #' Split a string
 #'
 #' @param string A character vector with one element
-#' @inheritParam stringr::str_replace
+#' @inheritParams stringr::str_replace
 #'
 #' @returns A character vector
 #' @export
